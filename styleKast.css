@@ -47,7 +47,7 @@ li {
     padding-top: 140px;
     padding-bottom: 110px;    
     max-width: 100%;
-    background-image: url(../staticLayout/assets/gradient-violet-bg.jpg);
+    background-image: url(./assets/gradient-violet-bg.jpg);
     background-position: 50% 50%;
     background-size: cover;
     position: relative;
@@ -177,7 +177,7 @@ h2 {
     padding-top: 40px;
     padding-bottom: 110px;    
     max-width: 100%;
-    background-image: url(../staticLayout/assets/green-bg.jpg);
+    background-image: url(./assets/green-bg.jpg);
     background-position: 50% 50%;
     background-size: cover;
     position: relative;
