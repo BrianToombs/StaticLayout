@@ -1,3 +1,7 @@
+body {
+    display: block;
+    margin:0%
+}
 a {
     color: white;
     text-decoration: none;
@@ -13,7 +17,6 @@ a {
     position: sticky;
     z-index: 2;
     vertical-align: middle;
-    
 }
 
 .navLinks {
